@@ -9,3 +9,5 @@ wingpanel-indicator-ayatana (<a href="https://github.com/giovannicaligaris/dropb
 <a href="https://github.com/giovannicaligaris/dropbox-eos/releases/download/0.1/dropbox-eos_0.1_amd64.deb">Download Dropbox for elementary OS</a>
 
 Make sure you install the packages using Eddy or Gdebi.
+
+<p><img src="https://github.com/giovannicaligaris/dropbox-eos/raw/master/Screenshot%20from%202018-11-29%2017.00.06.png"></p>
